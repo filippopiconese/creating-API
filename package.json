@@ -1,7 +1,7 @@
 {
   "name": "creatingapi",
   "version": "1.0.0",
-  "description": "Creating a simply API just to test it",
+  "description": "Creating a simply NodeJS API just to test it",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
